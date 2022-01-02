@@ -55,5 +55,5 @@ Issues
 Pull Requests
 Join Community
 Discord of the community
-Developed in India 🇮🇳
+Developed in Luxembourg
 Buy Me A Coffee
