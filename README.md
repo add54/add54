@@ -2,7 +2,7 @@ github profile markdown generator logo
 GitHub Profile README Generator
 Star this repo7934
 Fork on GitHub1637
-<h1 align="center">Hi 👋, I'm Hicham</h1>
+<h2 align="center">Hi 👋, I'm Hicham</h2>
 <h3 align="center">A passionate frontend developer , Data engineering</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=add54&label=Profile%20views&color=0e75b6&style=flat" alt="add54" /> </p>
