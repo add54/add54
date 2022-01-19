@@ -15,7 +15,7 @@ Fork on GitHub1637
 
 - 👯 I’m looking to collaborate on **Data engineering and automation**
 
-- 🤝 I’m looking for help with **C#**
+- 🤝 I’m looking for help with Automation  Workflow in **C#**
 
 - 👨‍💻 All of my projects are available at [github.com/add54](github.com/add54)
 
