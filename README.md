@@ -9,13 +9,13 @@ Fork on GitHub1637
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=add54" alt="add54" /></a> </p>
 
-- 🔭 I’m currently working on **Support Engineer EC**
+- 🔭 I’m currently working on **Support Engineer FreeLancer**
 
-- 🌱 I’m currently learning **Tensorflow ,OpenCV**
+- 🌱 I’m currently learning **Tensorflow ,OpenCV, Ai_Agent**
 
-- 👯 I’m looking to collaborate on **Data engineering and automation**
+- 👯 I’m looking to collaborate on **Data engineering and automation, System Administration and Infra-Sctructure Security**
 
-- 🤝 I’m looking for help with Automation  Workflow in **C#**
+- 🤝 I’m looking for help with Automation  Workflow in **Python,Perl, C# and more **
 
 - 👨‍💻 All of my projects are available at [github.com/add54](github.com/add54)
 
